@@ -17,3 +17,4 @@ eureka:
     fetchRegistry: false
     serviceUrl:
       defaultZone: http://server2:8762/eureka/,http://server3:8763/eureka/
+test: test123
